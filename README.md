@@ -1,5 +1,8 @@
 # Heroku::Mongo
 
+[![Build Status](https://secure.travis-ci.org/diatmpravin/heroku-mongo.png)](http://travis-ci.org/diatmpravin/heroku-mongo)
+
+
 TODO: Write a gem description
 
 ## Installation
