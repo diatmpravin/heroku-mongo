@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = Heroku::Mongo::VERSION
   gem.authors       = ["diatmpravin"]
   gem.email         = ["diatm.pravin.it.07.27@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{Sync up heroku data wiht local mongodb}
+  gem.summary       = %q{Sync up heroku data wiht local mongodb}
+  gem.homepage      = "https://github.com/diatmpravin/heroku-mongo"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
